@@ -1,0 +1,10 @@
+.panel-heading{
+    font-family: cursive;
+    font-size:large;
+    color: rgb(17, 79, 79)
+}
+.panel-body{
+    font-family: cursive;
+    font-size:medium;
+    color:rgb(17, 79, 79)
+}
